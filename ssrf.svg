@@ -4,5 +4,5 @@
 <svg xmlns="http://www.w3.org/2000/svg"
      xmlns:xlink="http://www.w3.org/1999/xlink"
      width="300" height="200">
-  <image xlink:href="http://your-burp-collaborator-url.com/ssrf-test.png" height="200" width="300"/>
+  <image xlink:href="http://hf01nfvgaxf087q0gjsi8ufqrhx7lw.burpcollaborator.net/ssrf-test.png" height="200" width="300"/>
 </svg>
